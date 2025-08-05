@@ -13,3 +13,5 @@ public class IdentityServiceApplication {
 	}
 
 }
+
+//How to run docker file: https://www.youtube.com/watch?v=c_iWQDFLOmg
